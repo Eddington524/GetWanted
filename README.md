@@ -46,8 +46,10 @@
     - 상세페이지에서 지원하기 버튼 시 담아지는 api 데이터 호출
     - 
 
-### 정새미
-- `Login` : 로그인 페이지
+## 정새미
+### 내가 구현한 기능들!✨
+
+- 🌟`Login` : 로그인 페이지
     - 이메일 회원가입 여부에 따른 페이지 연결
     - 소셜로그인 가입 메일 중복 체크 알림 기능
     - 이메일로 비밀번호 재설정 기능 구현 fetch method patch
@@ -55,13 +57,13 @@
     - usehistory,uselocation을 이용하여 state에 이메일 값 전달
     - 로그인 성공시 로컬스토리지에 토큰 저장
 
-- `Signup`
+- 🌟`Signup`
     - 조건부 렌더링을 통한 모달창 구현
     - map 함수를 이용하여 input 값 관리
     - 정규식 표현 만족시 회원가입 버튼 활성화
     - 각각의 정규식에 대한 조건문을 이용하여 alert
 
-- `Social Login`
+- 🌟`Social Login`
     - 카카오 로그인 기능 구현
     - Redirect URI 등록,JavaScript SDK 적용
     - Kakao.Auth.login 함수 카카오 사용자 토큰 백엔드 서버로 전달
